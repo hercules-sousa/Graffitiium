@@ -3,14 +3,13 @@
   padding: 0;
 }
 
+body {
+}
+
 #container {
   width: 100vw;
   height: 100vh;
-  background-color: red;
-}
-
-#container > img {
-  max-width: 100%;
-  max-width: 100%;
-  height: auto;
+  background-color: black;
+  background: url("../../assets/images/background.png") no-repeat center;
+  background-size: cover;
 }
