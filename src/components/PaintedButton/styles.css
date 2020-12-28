@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-a {
+.painted-link {
   color: white;
   font-size: 1rem;
   font-family: "Roboto", sans-serif;
@@ -10,9 +10,6 @@ a {
   justify-content: center;
   border-radius: 4px;
   background-color: #de0e30;
-  padding-left: 2vmax;
-  padding-right: 2vmax;
-  padding-top: 1vmax;
-  padding-bottom: 1vmax;
+  padding: 1vmax;
   box-shadow: 0px 0px 4px 4px #de0e30;
 }

@@ -2,11 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 import "./styles.css"
-
-interface PaintedLinkProps {
-  label: string
-  to: string
-}
+import { PaintedLinkProps } from "./props"
 
 const PaintedLink = ({label, to}: PaintedLinkProps) => {
   return (
