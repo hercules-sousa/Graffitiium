@@ -10,11 +10,9 @@ a {
   justify-content: center;
   border-radius: 4px;
   background-color: #de0e30;
-  width: 6vmax;
-  height: 2vmax;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-left: 2vmax;
+  padding-right: 2vmax;
+  padding-top: 1vmax;
+  padding-bottom: 1vmax;
   box-shadow: 0px 0px 4px 4px #de0e30;
 }
