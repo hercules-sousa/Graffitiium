@@ -11,12 +11,17 @@
 #link {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   color: white;
   font-size: 3vmax;
   text-decoration: none;
+}
+
+#logo {
+  width: 30%;
+  height: auto;
 }
 
 .buttonContainer {
@@ -27,6 +32,6 @@
   height: auto;
 }
 
-.buttonContainer span {
-  margin-left: 4vmax;
+.buttonContainer span:first-child {
+  margin-right: 8vw;
 }

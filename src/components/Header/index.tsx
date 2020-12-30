@@ -10,7 +10,7 @@ const Header = () => {
     <nav className="container">
       <Link id="link" to="/">
         Graffitiium
-        <GraffitiiumLogo />
+        <GraffitiiumLogo id="logo" />
       </Link>
       <div className="buttonContainer">
         <span>
