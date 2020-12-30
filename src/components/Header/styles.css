@@ -18,6 +18,10 @@
   text-decoration: none;
 }
 
+#link:active {
+  opacity: 0.5;
+}
+
 #logo {
   width: 12vmin;
   height: auto;
