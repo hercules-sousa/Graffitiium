@@ -13,3 +13,7 @@ html {
   --color-blue-primary: #00237b;
   --text-white: #fff;
 }
+
+body {
+  background-color: black;
+}

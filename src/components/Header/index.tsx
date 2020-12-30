@@ -10,10 +10,10 @@ const Header = () => {
       <Link id="link" to="/">Graffitiium</Link>
       <div className="buttonContainer">
         <span>
-          <PaintedLink label="About" to="#" />
+          <PaintedLink label="About" to="about" />
         </span>
         <span>
-          <PaintedLink label="Sign Up" to="#" />
+          <PaintedLink label="Sign Up" to="sign-up" />
         </span>
       </div>
     </div>

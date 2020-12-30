@@ -3,12 +3,12 @@ import React from "react"
 import Header from "../../components/Header"
 import "./styles.css"
 
-const About = () => {
+const SignUp = () => {
   return (
-    <div className="aboutContainer">
+    <div id="signUpContainer">
       <Header />
     </div>
   )
 }
 
-export default About
+export default SignUp
