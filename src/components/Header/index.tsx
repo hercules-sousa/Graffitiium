@@ -1,13 +1,17 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import {ReactComponent as GraffitiiumLogo} from "../../assets/svgs/logo.svg"
 
 import "./styles.css"
 import PaintedLink from "../PaintedLink"
 
 const Header = () => {
   return (
-    <div className="container">
-      <Link id="link" to="/">Graffitiium</Link>
+    <nav className="container">
+      <Link id="link" to="/">
+        Graffitiium
+        <GraffitiiumLogo />
+      </Link>
       <div className="buttonContainer">
         <span>
           <PaintedLink label="About" to="about" />
@@ -16,7 +20,7 @@ const Header = () => {
           <PaintedLink label="Sign Up" to="sign-up" />
         </span>
       </div>
-    </div>
+    </nav>
   )
 }
 
