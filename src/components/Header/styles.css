@@ -9,7 +9,7 @@
 }
 
 #link {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: flex-start;
   font-family: "Roboto", sans-serif;
@@ -17,6 +17,7 @@
   color: white;
   font-size: 3vmax;
   text-decoration: none;
+  background-color: red;
 }
 
 #logo {
@@ -25,13 +26,12 @@
 }
 
 .buttonContainer {
+  background-color: yellow;
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  width: 48vw;
-  height: auto;
 }
 
 .buttonContainer span:first-child {
-  margin-right: 8vw;
+  margin-right: 4vw;
 }
