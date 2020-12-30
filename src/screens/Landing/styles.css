@@ -1,10 +1,9 @@
 #container {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+  position: relative;
   width: 100vw;
   height: 100vh;
   background-color: black;
   background: url("../../assets/images/background.png") no-repeat center;
   background-size: cover;
+  overflow: hidden;
 }

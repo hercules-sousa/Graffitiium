@@ -1,0 +1,27 @@
+.painted-link {
+  color: var(--text-white);
+  font-size: 2vmax;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background-color: var(--color-red-primary);
+  padding: 1vmax;
+  box-shadow: 0px 0px 4px 4px var(--color-red-primary);
+}
+
+.painted-link:hover {
+  box-shadow: 0px 0px 4px 4px var(--color-blue-primary);
+}
+
+.painted-link:active {
+  opacity: 0.7;
+}
+
+@media (min-width: 960px) {
+  .painted-link {
+    font-size: 1.5vmax;
+  }
+}
