@@ -7,6 +7,7 @@ const Landing = () => {
   return (
     <div id="container">
       <PaintedLink label="About" to="about" />
+      <PaintedLink label="Sign Up" to="about" />
     </div>
   )
 }

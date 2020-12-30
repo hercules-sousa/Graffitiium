@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 .painted-link {
-  color: white;
-  font-size: 1rem;
+  color: var(--text-white);
+  font-size: 2.5vmin;
   font-family: "Roboto", sans-serif;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   border-radius: 4px;
-  background-color: #de0e30;
+  background-color: var(--color-red-primary);
   padding: 1vmax;
   box-shadow: 0px 0px 4px 4px #de0e30;
 }

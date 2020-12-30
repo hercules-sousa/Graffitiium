@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  --color-red-primary: #de0e30;
+  --text-white: #fff;
+}
