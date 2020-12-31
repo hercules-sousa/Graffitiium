@@ -2,49 +2,46 @@
   <img src="./.github/Github-Graffitiium.png">
 </p>
 
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Graffitiium is a social media which helps you to locate artists in your city, with that in mind we have developed this idea to short the distance between those who appreciate art and those who love to create art.
 
-## Available Scripts
+# :computer: Web
 
-In the project directory, you can run:
+<table style="width:100%">
+  <tr>
 
-### `yarn start`
+  <td align="center"><img src="./.github/Graffitiium-LandingPage.png" height="auto" width="500" /></td>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <td align="center"><img src="./.github/Graffitiium-AboutPage.png" height="auto" width="500" /></td>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  </tr>
+</table>
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :iphone: Mobile
 
-### `yarn build`
+<table style="width:100%">
+  <tr>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <td align="center"><img src="./.github/Graffitiium-LandingPage-Mobile.png" height="auto" width="250" /></td>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <td align="center"><img src="./.github/Graffitiium-About-Mobile.png" height="auto" width="250" /></td>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <td align="center"><img src="./.github/Graffitiium-SignIn-Mobile.png" height="auto" width="250" /></td>
 
-### `yarn eject`
+  </tr>
+</table>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :sparkles: Technologies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project was built using the follow technologies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :smiley_cat: Page:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://graffitiium-git-main.hercules-sousa.vercel.app/
