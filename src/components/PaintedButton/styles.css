@@ -1,0 +1,29 @@
+#painted-button {
+  color: var(--text-white);
+  font-size: 2vmax;
+  font-family: "Roboto", sans-serif;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 32px;
+  background-color: var(--color-red-primary);
+  padding: 1vmax 4vmax;
+  box-shadow: 0px 0px 4px 4px var(--color-red-primary);
+  border: none;
+  outline: none;
+}
+
+#painted-button:hover {
+  box-shadow: 0px 0px 4px 4px var(--color-blue-primary);
+}
+
+#painted-button:active {
+  opacity: 0.7;
+}
+
+@media (min-width: 780px) {
+  #painted-button {
+    padding: 1vmax 3vmax;
+    font-size: 1.5vmax;
+  }
+}

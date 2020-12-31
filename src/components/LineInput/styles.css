@@ -1,0 +1,9 @@
+#line-input {
+  color: var(--text-white);
+  background-color: transparent;
+  border-color: var(--color-red-primary);
+  border-width: 3px;
+  border-radius: 16px;
+  padding: 1.5vw 6vw;
+  outline: none;
+}

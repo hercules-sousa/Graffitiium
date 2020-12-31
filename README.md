@@ -4,7 +4,7 @@
 
 ---
 
-## Graffitiium is a social media which helps you to locate artists in your city, with that in mind we have developed this idea to short the distance between those who appreciate art and those who love to create art.
+### Graffitiium is a social media which helps you to locate artists in your city, with that in mind we have developed this idea to short the distance between those who appreciate art and those who love to create art.
 
 # :computer: Web
 
