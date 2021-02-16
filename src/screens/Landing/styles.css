@@ -21,3 +21,43 @@ main {
   align-items: center;
   justify-content: center;
 }
+
+#submittingInput {
+  color: var(--text-white);
+  width: 16vmax;
+  font-size: 1.5vmax;
+  font-family: "Roboto", sans-serif;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  border: none;
+  background-color: var(--color-red-primary);
+  padding: 1vmax;
+  box-shadow: 0px 0px 4px 4px var(--color-red-primary);
+  outline: none;
+  margin-top: 16px;
+}
+
+#submittingInput:hover {
+  box-shadow: 0px 0px 4px 4px var(--color-blue-primary);
+}
+
+#submittingInput:active {
+  opacity: 0.7;
+}
+
+form h1 {
+  color: var(--text-white);
+  font-family: "Audiowide", cursive;
+  font-size: 48px;
+}
+
+form label {
+  color: var(--text-white);
+  margin-bottom: 8px;
+  margin-top: 16px;
+  align-self: flex-start;
+  font-family: "Audiowide", cursive;
+  font-size: 24px;
+}

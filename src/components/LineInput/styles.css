@@ -1,9 +1,11 @@
 #line-input {
   color: var(--text-white);
+  font-size: 16px;
   background-color: transparent;
   border-color: var(--color-red-primary);
-  border-width: 3px;
-  border-radius: 16px;
-  padding: 1.5vw 6vw;
+  border-width: 2px;
+  border-radius: 32px;
+  padding: 1vw 6vw;
   outline: none;
+  text-align: center;
 }
